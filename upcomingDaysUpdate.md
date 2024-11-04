@@ -18,3 +18,11 @@ Q.1 https://codeforces.com/problemset/problem/1899/A
 Q.2 https://codeforces.com/problemset/problem/1901/A
 
 tried but showing some error 
+
+### Day 5
+
+date = 04/11/2024
+
+codeforces <br>
+Q.1 https://codeforces.com/problemset/problem/1900/A <br>
+Q.2 https://codeforces.com/problemset/problem/1896/A
