@@ -35,3 +35,13 @@ date = 05/11/2024
 revise the concepts of oops 
 <br>
 and Do some practice questions from videos 
+
+
+### Day 7
+
+date = 06/11/2024
+
+leetcode<br>
+
+Q.1 https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1444983537/?envType=problem-list-v2&envId=linked-list
+Q.2 https://leetcode.com/problems/rotate-list/submissions/1444988922/?envType=problem-list-v2&envId=linked-list
