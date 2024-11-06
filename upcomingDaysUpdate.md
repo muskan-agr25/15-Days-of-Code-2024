@@ -26,3 +26,12 @@ date = 04/11/2024
 codeforces <br>
 Q.1 https://codeforces.com/problemset/problem/1900/A <br>
 Q.2 https://codeforces.com/problemset/problem/1896/A
+
+
+### Day 6
+
+date = 05/11/2024
+
+revise the concepts of oops 
+<br>
+and Do some practice questions from videos 
