@@ -44,4 +44,18 @@ date = 06/11/2024
 leetcode<br>
 
 Q.1 https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1444983537/?envType=problem-list-v2&envId=linked-list
+<br>
 Q.2 https://leetcode.com/problems/rotate-list/submissions/1444988922/?envType=problem-list-v2&envId=linked-list
+
+
+### Day 7
+
+date = 07/11/2024
+
+leetcode<br>
+
+Q.1 https://leetcode.com/problems/valid-parentheses/submissions/1446009432/?envType=problem-list-v2&envId=stack<br>
+Q.2 https://leetcode.com/problems/implement-stack-using-queues/submissions/1446014526/?envType=problem-list-v2&envId=queue
+<br>
+other task :<br>
+continuation of DSA 
