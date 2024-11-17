@@ -38,3 +38,10 @@ Q.1 https://codeforces.com/problemset/problem/112/A<br>
 Q.2 https://codeforces.com/problemset/problem/339/A<br>
 Q.3 https://codeforces.com/problemset/problem/281/A<br>
 Q.4 https://codeforces.com/problemset/problem/236/A
+
+
+### Day 6
+date = 17/11/2024
+
+codeforces<br>
+Q.1 https://codeforces.com/problemset/problem/791/A <br>
